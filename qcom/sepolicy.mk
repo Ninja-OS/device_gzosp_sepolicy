@@ -4,5 +4,5 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    device/gzosp/sepolicy/qcom/common \
-    device/gzosp/sepolicy/qcom/$(TARGET_BOARD_PLATFORM)
+    device/ninja/sepolicy/qcom/common \
+    device/ninja/sepolicy/qcom/$(TARGET_BOARD_PLATFORM)
